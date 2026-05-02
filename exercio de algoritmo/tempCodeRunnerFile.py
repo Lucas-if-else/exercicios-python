@@ -1,0 +1,1 @@
+soma=soma+valor
